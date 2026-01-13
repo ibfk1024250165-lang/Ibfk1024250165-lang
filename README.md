@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🦖 Perfil de Alison Violeta 🎹
 
-<!--
-**ibfk1024250165-lang/Ibfk1024250165-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 Información General
+- **Nombre:** Alison Violeta
+- **Edad:** 12 años
+- **Identidad:** IBFK
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Lo que más me gusta
+
+#### 🦕 Dinosaurios
+Me apasiona el mundo prehistórico y la historia de los gigantes que habitaron la Tierra. ¡Nunca se sabe lo suficiente sobre paleontología!
+
+#### 📚 Libros
+Me encanta perderme en una buena historia. Leer es mi forma favorita de viajar a otros mundos y aprender cosas nuevas.
+
+#### 🐈 Gatos
+Soy fan de los felinos. Me encantan por su elegancia, su personalidad independiente y lo cariñosos que pueden llegar a ser.
+
+#### 🎹 Piano
+La música es una parte fundamental de mi día a día. Interpretar melodías en el piano es mi forma de expresión favorita.
+
+---
+
+### 🎨 Mis Preferencias
+
