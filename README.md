@@ -32,7 +32,3 @@
 
 #### 🎮 Videojuegos
 *   **OMORI:** Un juego con un arte y una historia emocional que me fascina. 
-
----
-
-### 🎨 Resumen de Favoritos
